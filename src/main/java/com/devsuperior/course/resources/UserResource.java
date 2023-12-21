@@ -1,4 +1,4 @@
-package com.devsuperior.course;
+package com.devsuperior.course.resources;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
