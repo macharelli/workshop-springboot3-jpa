@@ -14,7 +14,7 @@ import com.devsuperior.course.services.OrderService;
 
 
 @RestController
-@RequestMapping(value = "/Orders")
+@RequestMapping(value = "/orders")
 public class OrderResource {
 	
 	
